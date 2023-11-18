@@ -1,0 +1,13 @@
+$dark-color: #17252a;
+$greenDark-color: #2b7a78;
+$greenLight-color: #3aafa9;
+$lightBlue-color: #def2f1;
+$offWhite-color: #feffff;
+
+:export {
+	dark: $dark-color;
+	darkGreen: $greenDark-color;
+	lightGreen: $greenLight-color;
+	lightBlue: $lightBlue-color;
+	offWhite: $offWhite-color;
+}
